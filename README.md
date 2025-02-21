@@ -41,6 +41,6 @@ README.md – This README file.
 
 example_image.png – A sample image to demonstrate the project.
 
-hidden_data.txt – A file that contains the hidden data.
+hiddendata_image.png – A image that contains the hidden data.
 
 
